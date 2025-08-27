@@ -92,11 +92,7 @@
 
 ---
 
-## 🔥 GitHub Streak  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=salmariaz-tech&theme=tokyonight&hide_border=true&ring=FF6C6C&fire=FF6C6C" />
-</p>
 
 ---
 
