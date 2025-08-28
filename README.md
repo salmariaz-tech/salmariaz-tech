@@ -18,7 +18,9 @@ Currently, I’m enhancing my skills in **Next.js**, **Tailwind CSS**, and **AI-
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 ---
+
 ##  **About Me**
 -  I love solving real-world problems using **technology**.  
 -  Currently learning **Next.js, Tailwind CSS, and advanced API integrations**.  
