@@ -1,105 +1,69 @@
-<!-- 🌟 3D Gradient Header -->
+<!-- 🌟 Premium Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00C6FF&text=Hi%20%2C%20I'm%20Salma%20Riaz!&fontColor=ffffff&fontSize=38&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0A192F&text=Hi%2C%20I'm%20Salma%20Riaz!&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- ✨ Typing Animation -->
-
-
----
-
-<!--  Floating Tech Icons -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" width="60" />
-</p>
-
----
-
-<!-- 💎 Glowing Name -->
+<!-- 👩‍💻 Name & Tagline -->
 <h1 align="center">
-  <span style="color:#00C6FF; text-shadow: 0px 0px 20px #00C6FF, 0px 0px 30px #0072FF;">🚀 Salma Riaz</span>
+  <span style="color:#58A6FF;">Salma Riaz</span>
 </h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | API Integrator</h3>
-
-<p align="center">
-  <a href="https://github.com/salmariaz-tech" target="_blank">
-    <img src="https://img.shields.io/badge/-🌐%20Visit%20My%20Portfolio-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+<h3 align="center" style="font-weight: normal;">MERN Stack Developer | AI Enthusiast | API Integrator</h3>
 
 ---
 
-<!-- 🔹 Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmariaz-tech&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/salmariaz-tech?style=for-the-badge&color=00FF7F&logo=github" />
-  <img src="https://img.shields.io/github/stars/salmariaz-tech?style=for-the-badge&color=FFD700&logo=github" />
-</p>
-
----
-
+<!-- 🚀 About Me -->
 ## 👩‍💻 About Me  
 
-💎 **MERN Stack Developer** passionate about building **scalable, modern & high-performance apps**  
-⚡ Currently working on **[AI Real Estate Assistant](https://github.com/salmariaz-tech/Real-state-chatbot)**  
+💻 **MERN Stack Developer** passionate about building **modern, scalable & intelligent web applications**  
+⚡ Currently developing **[AI Real Estate Assistant](https://github.com/salmariaz-tech/Real-state-chatbot)**  
 🌱 Exploring **Next.js, TypeScript, Tailwind CSS & Advanced APIs**  
-🤝 Open to **collaborations** on MERN Projects, APIs & Chatbots  
-💬 Ask me about **React, Node.js, Express, MongoDB, APIs & Chatbots**  
-📩 Contact me at **srabbasiabbasi@gmail.com**  
+🤝 Open to **collaborations** on MERN projects, AI solutions & APIs  
+📩 Reach me at **srabbasiabbasi@gmail.com**  
 
 ---
 
+<!-- 🛠️ Tech Stack -->
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,js,bootstrap,postman,git,github,vscode,figma&perline=6" />
+</p>
+
+---
+
+<!-- 🌐 Social Links -->
 ## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/salma-riaz" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/mana-riaz" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/salma-riaz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ My Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mongodb,express,nodejs,js,bootstrap,postman,git,github,vscode,figma" />
-</p>
-
----
-
-
-
----
-
+<!-- 📊 Stats Section -->
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=salmariaz-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmariaz-tech&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=salmariaz-tech&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=salmariaz-tech&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
 
 
-
 ---
 
-
-
----
-
-<!-- 🌊 Animated Footer -->
+<!-- 🌊 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer" />
 </p>
+
 
