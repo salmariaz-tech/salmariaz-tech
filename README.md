@@ -8,7 +8,7 @@
 
 ---
 
-<!-- 🌟 Floating Tech Icons -->
+<!--  Floating Tech Icons -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="60" />
