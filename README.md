@@ -6,10 +6,8 @@ I’m a passionate **MERN Stack Developer** focused on building **modern, scalab
 Currently, I’m enhancing my skills in **Next.js**, **Tailwind CSS**, and **AI-driven solutions** to deliver impactful digital experiences.  
 
 ---
-##  **Let's Connect**
 
-
-  ##
+  ##  **Let's Connect**
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -35,6 +33,7 @@ Currently, I’m enhancing my skills in **Next.js**, **Tailwind CSS**, and **AI-
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
 **Tools & Others:** Postman, Git, GitHub, VS Code, Figma  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -53,13 +52,6 @@ Currently, I’m enhancing my skills in **Next.js**, **Tailwind CSS**, and **AI-
 </p>
 
 ---
-
-
-
-  
-
----
-
 
 ## ✨ **Highlights**
 - 🔹 Building **scalable, modern, and AI-powered web applications**  
