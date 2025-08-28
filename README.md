@@ -1,12 +1,10 @@
 <!-- 🌟 3D Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00C6FF&text=Hi%20👋%2C%20I'm%20Salma%20Riaz!&fontColor=ffffff&fontSize=38&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00C6FF&text=Hi%20%2C%20I'm%20Salma%20Riaz!&fontColor=ffffff&fontSize=38&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- ✨ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Web+Developer;AI+Enthusiast+⚡;API+Integrator+%7C+Chatbot+Developer;Building+Scalable+Web+Apps+%26+Solutions" alt="Typing Animation" />
-</p>
+
 
 ---
 
