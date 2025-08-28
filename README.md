@@ -41,7 +41,7 @@ Currently, I’m enhancing my skills in **Next.js**, **Tailwind CSS**, and **AI-
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,nextjs,tailwind,bootstrap,postman,git,github,vscode,figma&theme=dark" />
 </p>
 </div>
----
+
 
 ##  **GitHub Stats**
 <p align="center">
