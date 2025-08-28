@@ -1,78 +1,59 @@
-<!-- Header Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Salma+Riaz;MERN+Stack+Web+Developer;AI+Enthusiast+%7C+API+Integrator;Building+Scalable+%26+Intelligent+Web+Apps;Always+Learning+New+Technologies+🚀" alt="Typing Animation" />
-</p>
+# Hi, I'm Salma Riaz 👋  
 
-<!-- Stylish Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C6FF&height=2&section=header"/>
-</p>
+### 🚀 MERN Stack Web Developer | AI & API Integration Enthusiast  
 
-<!-- Title -->
-<h1 align="center">🌟 Salma Riaz — MERN Stack Developer | AI Enthusiast 🌟</h1>
+I’m a passionate **MERN Stack Developer** focused on building **modern, scalable, and intelligent web applications**.  
+Currently, I’m enhancing my skills in **Next.js**, **Tailwind CSS**, and **AI-driven solutions** to deliver impactful digital experiences.  
 
 ---
 
-## 👩‍💻 About Me  
-
-I am a **MERN Stack Web Developer** passionate about creating **modern, scalable, and intelligent web applications**.  
-Currently exploring **AI-powered integrations** and building innovative solutions combining **data-driven APIs** and **interactive UIs**.  
-
-🔹 **Core Skills** → React.js | Node.js | Express.js | MongoDB  
-🔹 **Exploring** → Next.js | Tailwind CSS | TypeScript | AI APIs  
-🔹 **Projects** → [AI Real Estate Assistant](https://github.com/salmariaz-tech/Real-state-chatbot)  
-🔹 **Collaboration** → Open to working on MERN projects, APIs, and AI-powered chatbots  
-
-📧 **Reach me at:** `srabbasiabbasi@gmail.com`
+## 🧑‍💻 **About Me**
+- 💡 I love solving real-world problems using **technology**.  
+- 🌱 Currently learning **Next.js, Tailwind CSS, and advanced API integrations**.  
+- 🔗 Building innovative projects like [AI Real Estate Assistant](https://github.com/salmariaz-tech/Real-state-chatbot).  
+- 🤝 Open to collaborating on **MERN, AI, and API-based projects**.  
+- 📧 Reach me at: **srabbasiabbasi@gmail.com**
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 **Tech Stack**
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools & Others:** Postman, Git, GitHub, VS Code, Figma  
 
+---
+
+## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,nextjs,tailwind,bootstrap,postman,git,github,vscode,figma" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmariaz-tech&show_icons=true&theme=default&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salmariaz-tech&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=salmariaz-tech&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmariaz-tech&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
+## 🌐 **Let's Connect**
+<p>
   <a href="https://linkedin.com/in/salma-riaz" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/salmariaz-tech" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="mailto:srabbasiabbasi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ✨ Profile Highlights  
-
-- 🚀 Passionate about **building scalable web apps**  
-- 🤖 Exploring **AI-powered solutions**  
-- 🌱 Continuously **learning modern technologies**  
-- 💡 Open to **collaborations & freelance opportunities**  
+## ✨ **Highlights**
+- 🔹 Building **scalable, modern, and AI-powered web applications**  
+- 🔹 Skilled in **MERN stack development**  
+- 🔹 Passionate about **clean code & problem-solving**  
+- 🔹 Always open to **collaboration & learning**  
 
 ---
-
-<!-- Footer Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&height=90&section=footer"/>
-</p>
 
 
 
